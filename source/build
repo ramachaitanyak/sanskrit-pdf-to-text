@@ -1,0 +1,4 @@
+g++ -std=c++17 -o sanskrit_pdf_ocr sanskrit_pdf_ocr.cpp \
+    `pkg-config --cflags --libs poppler-cpp` \
+    -ltesseract -llept
+

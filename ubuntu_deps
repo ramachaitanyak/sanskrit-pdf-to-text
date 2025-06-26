@@ -1,0 +1,2 @@
+sudo apt-get install libpoppler-cpp-dev libtesseract-dev libleptonica-dev tesseract-ocr tesseract-ocr-hin
+
